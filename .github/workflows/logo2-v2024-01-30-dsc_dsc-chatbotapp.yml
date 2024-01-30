@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DSC-ChatBotApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F8023BA07754CBF84FAD4A14A54CA5F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8944848989844019DAB616A6D0BA9B7 }}
